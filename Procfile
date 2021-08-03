@@ -1,1 +1,1 @@
-worker: python run247.pt
+worker: python run247.py
